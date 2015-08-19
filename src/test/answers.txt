@@ -1,0 +1,4 @@
+"hi","hello","hey","good","doing well","may be!","yes","Ofcourse",
+"buzz off!","BIG NOO!!","Naahh","YESSS","HAHA Ofcourse","Seriously?",
+"atleast better than humans","of course","Yes","you're bad","noob","stop talking",
+"(ALOO is unavailable,)", "SSS"
